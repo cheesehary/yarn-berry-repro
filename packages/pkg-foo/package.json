@@ -1,0 +1,13 @@
+{
+  "name": "@af/pkg-foo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@af/pkg-c": "*",
+    "@af/pkg-e": "*"
+  },
+  "peerDependencies": {
+    "@af/pkg-p1": "*",
+    "@af/pkg-p2": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@af/pkg-c",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@af/pkg-foo": "*",
+    "@af/pkg-p1": "*"
+  }
+}
